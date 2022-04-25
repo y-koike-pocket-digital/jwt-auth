@@ -1,5 +1,5 @@
 {
-    "name": "tymon/jwt-auth",
+    "name": "pocket-digital/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
@@ -20,6 +20,10 @@
             "email": "tymon148@gmail.com",
             "homepage": "https://tymon.xyz",
             "role": "Developer"
+        },
+        {
+            "name": "Yoshitsugu Koike",
+            "email": "y.koike@pocket-digital.com"
         }
     ],
     "require": {
